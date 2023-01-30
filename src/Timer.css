@@ -1,0 +1,14 @@
+
+.timer{
+    font-family: digital-8;
+    font-size: 5.5em;
+    margin: 0.5em;
+    border: 8px solid black;
+    padding: 2px;
+    display: inline-block;
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}

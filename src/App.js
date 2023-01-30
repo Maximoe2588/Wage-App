@@ -1,13 +1,14 @@
-import logo from './logo.svg';
-import './App.css';
 import WorkCalculator from './WorkCalculator';
-import FlashcardApp from './FlashCard';
+import Timer from './Timer';
+import './WorkCalculator.css';
+
+
 
 function App() {
   
 return (
   <div>
-  <FlashcardApp />
+  <WorkCalculator />
   </div>
   );
 }
